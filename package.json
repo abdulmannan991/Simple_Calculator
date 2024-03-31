@@ -1,6 +1,6 @@
 {
   "name": "me67r-simple_calculator",
-  "version": "1.0.1",
+  "version": "3.3.5",
   "description": "A simple calculator with typescript , Nose.js and Inquirer",
   "main": "index.js",
   "type": "module",
